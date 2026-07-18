@@ -1,0 +1,11 @@
+{
+  "execution_date_utc": "2026-07-18T23:44:42.274848Z",
+  "python": "3.12.13 (main, Mar  3 2026, 14:59:34) [Clang 21.1.4 ]",
+  "platform": "Linux-6.12.47-x86_64-with-glibc2.39",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "scipy": "1.17.0",
+  "scikit_learn": "1.8.0",
+  "pyyaml": "6.0.3",
+  "joblib": "1.5.3"
+}

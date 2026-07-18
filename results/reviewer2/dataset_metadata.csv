@@ -1,0 +1,6 @@
+name,domain,source,n_samples,n_features,class_distribution,real_industrial,predefined_split,source_urls,source_sha256
+wisconsin_breast_cancer,small tabular binary classification,scikit-learn built-in dataset,569,30,"{'0': 212, '1': 357}",False,,[],{}
+wine_multiclass,tabular multiclass classification,scikit-learn built-in dataset,178,13,"{'0': 59, '1': 71, '2': 48}",False,,[],{}
+synthetic_iot_sensor,synthetic industrial/IoT-like binary classification,synthetic make_classification,2500,20,"{'0': 1617, '1': 883}",False,,[],{}
+synthetic_timeseries_telemetry,synthetic time-series-like telemetry classification,synthetic generated telemetry,3000,12,"{'0': 1950, '1': 1050}",False,,[],{}
+scania_aps_failure,real industrial predictive-maintenance classification,UCI APS Failure at Scania Trucks,76000,170,"{'0': 74625, '1': 1375}",True,"{'train_size': 60000, 'test_size': 16000}","['https://archive.ics.uci.edu/ml/machine-learning-databases/00421/aps_failure_training_set.csv', 'https://archive.ics.uci.edu/ml/machine-learning-databases/00421/aps_failure_test_set.csv']","{'training': 'bb484302e3a3a1c8ef5e1f0129c4dc7cbd58f350867f95b575461ca21ab6b9da', 'test': '2cdf6f7661c7b4c63333c93cdec36a3a82350176b604a2312cf82799fb2712f3'}"
