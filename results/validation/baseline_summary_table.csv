@@ -1,0 +1,8 @@
+strategy,total_cases,false_promotions_under_drift,unsafe_promotions,missed_safe_promotions,retraining_triggers,agreement_with_proposed
+accuracy_only,30,18,24,0,0,0.3333333333333333
+f1_threshold,30,18,24,0,0,0.3333333333333333
+fixed_retraining_schedule,30,13,15,4,10,0.2
+learned_gradient_boosting,30,11,3,4,7,0.03333333333333333
+learned_logistic_regression,30,17,12,1,1,0.23333333333333334
+manual_policy,30,0,7,11,18,0.4
+proposed_decision_gate,30,0,7,11,18,1.0

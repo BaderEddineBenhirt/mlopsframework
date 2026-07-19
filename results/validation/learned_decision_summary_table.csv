@@ -1,0 +1,13 @@
+dataset,strategy,candidate_cases,decision_accuracy,decision_macro_f1,decision_roc_auc
+scania_aps_failure,learned_gradient_boosting,18.0,0.8888888888888888,0.875,0.987012987012987
+scania_aps_failure,learned_logistic_regression,18.0,0.8888888888888888,0.8831168831168831,0.8831168831168831
+synthetic_iot_sensor,learned_gradient_boosting,18.0,0.8888888888888888,0.8,0.9821428571428571
+synthetic_iot_sensor,learned_logistic_regression,18.0,0.8333333333333334,0.8036363636363637,0.8928571428571428
+synthetic_timeseries_telemetry,learned_gradient_boosting,18.0,0.6666666666666666,0.6493506493506493,0.8928571428571429
+synthetic_timeseries_telemetry,learned_logistic_regression,18.0,0.4444444444444444,0.41558441558441556,0.6785714285714286
+wine_multiclass,learned_gradient_boosting,18.0,0.8333333333333334,0.6516129032258065,0.8571428571428571
+wine_multiclass,learned_logistic_regression,18.0,0.7222222222222222,0.6727272727272727,0.7857142857142858
+wisconsin_breast_cancer,learned_gradient_boosting,18.0,0.8333333333333334,0.8285714285714285,0.9125
+wisconsin_breast_cancer,learned_logistic_regression,18.0,0.8888888888888888,0.8831168831168831,0.9375
+overall,learned_gradient_boosting,90.0,0.8222222222222222,0.7964951950254381,0.9185980780101752
+overall,learned_logistic_regression,90.0,0.7555555555555555,0.7453703703703703,0.8728094968908988
